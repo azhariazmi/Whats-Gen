@@ -1,0 +1,66 @@
+{
+  "background_color": "#18961d",
+  "description": "Generate instant WhatsApp chat links and QR codes without saving contact numbers. Ideal for business, customer support, and quick messaging. Created by Azhari.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "whats gen",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "wagen",
+  "start_url": "/",
+  "theme_color": "#00ff77",
+  "icons": [
+    {
+      "src": "https://wasapgen.vercel.app/assets/icons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://wasapgen.vercel.app/assets/icons/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 16,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://wasapgen.vercel.app/assets/icons/icon-192.png",
+      "type": "image/jpeg",
+      "sizes": "660x660",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 660,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://wasapgen.vercel.app/assets/images/profile-azhari.png",
+      "type": "image/jpeg",
+      "sizes": "660x660",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 660,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}

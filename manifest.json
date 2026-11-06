@@ -1,30 +1,36 @@
 {
-  "name": "whats gen",
-  "short_name": "wagen",
+  "name": "Whats Gen",
+  "short_name": "WaGen",
   "description": "Generate instant WhatsApp chat links and QR codes without saving contact numbers. Ideal for business, customer support, and quick messaging. Created by Azhari.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#18961d",
-  "theme_color": "#00ff77",
-  "orientation": "any",
-  "dir": "auto",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
   "lang": "en",
   "categories": [
     "business",
-    "social",
-    "social networking"
+    "utilities",
+    "social"
   ],
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/azhariazmi/Whats-Gen/refs/heads/main/assets/icons/icon-192.png",
+      "src": "https://cdn.jsdelivr.net/gh/azhariazmi/Whats-Gen@main/assets/icons/icon-192.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "sizes": "192x192"
+      "purpose": "any maskable"
     },
     {
-      "src": "https://raw.githubusercontent.com/azhariazmi/Whats-Gen/refs/heads/main/assets/icons/icon-512.png",
+      "src": "https://cdn.jsdelivr.net/gh/azhariazmi/Whats-Gen@main/assets/icons/icon-512.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "sizes": "512x512"
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/azhariazmi/Whats-Gen@main/assets/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
     }
   ]
 }
